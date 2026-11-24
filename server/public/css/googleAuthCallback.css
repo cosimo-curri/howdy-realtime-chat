@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+#header-loading {
+    display: flex;
+    justify-content: center;
+    height: 70px;
+}

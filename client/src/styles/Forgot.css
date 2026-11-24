@@ -1,0 +1,31 @@
+.container-all-forgot {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background: #f6f5f7;
+    display: grid;
+    place-content: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+.container-forgot a.forgot {
+    margin-top: 10px;
+    border-bottom: 2px solid #EEE;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.container-forgot a.forgot:hover {
+    border-bottom: 2px solid var(--grad-clr2);
+}
+
+.container-forgot button {
+    margin-top: 10px;
+}
+
+.container-forgot {
+    padding-bottom: 40px;
+}

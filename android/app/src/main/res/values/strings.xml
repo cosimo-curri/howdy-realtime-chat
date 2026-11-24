@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">howdy?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="email_or_username">Email or Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in_uppercase">SIGN IN</string>
+    <string name="auth_2fa">Auth 2FA</string>
+    <string name="username_space">________</string>
+    <string name="email_space">___________________</string>
+    <string name="check_your_e_mail">Check your e-mail</string>
+</resources>

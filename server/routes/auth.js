@@ -1,0 +1,13 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+/// ROUTER CREATED FOR POTENTIAL FUTURE IMPLEMENTATION SUCH AS passport-facebook OR passport-twitter ///
+////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+const express = require("express");
+const router = express.Router();
+
+//SUB-ROUTERS
+const authGoogleRouter = require("./auth_routes/google");
+
+router.use("/google", authGoogleRouter);
+
+module.exports = router;
