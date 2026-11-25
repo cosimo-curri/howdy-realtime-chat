@@ -2,7 +2,7 @@
 
 **howdy?** is a full-stack messaging application combining a React web client, an Express/MongoDB API with Socket.IO, and an Android companion app for two-factor authentication (2FA).
 
-Developed at **[Politecnico di Bari](https://www.poliba.it/en/ingegneria-informatica-e-dellautomazione)** as part of the **Bachelor's Degree in Computer and Automation Engineering**, for the *Software Engineering and Web Fundamentals* course (**Web Fundamentals module**, Academic Year **2022–2023**).
+Developed at **[Politecnico di Bari](https://www.poliba.it/en/ingegneria-informatica-e-dellautomazione)** as part of the **Bachelor's Degree in Computer Science and Automation Engineering**, for the *Software Engineering and Web Fundamentals* course (**Web Fundamentals module**, Academic Year **2022–2023**).
 
 ## Preview
 
